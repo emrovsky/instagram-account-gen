@@ -13,8 +13,7 @@ maybe if the project gets interaction I will add separating accounts as locked.t
 
 add me if you want to code custom tools (i already coded hotmail gen with opened imap, twitter web/mobile gen, twitter unlocker, spotify register tool etc.):
 
-discord:emrovsky
-telegram:Emrovsky (I probably won't see your dm so don't choose this place)
+discord:emrovsky | telegram:Emrovsky (I probably won't see your dm so don't choose this place)
 
 
 preview with shitty proxies:
