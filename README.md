@@ -15,3 +15,7 @@ add me if you want to code custom tools (i already coded hotmail gen with opened
 
 discord:emrovsky
 telegram:Emrovsky (I probably won't see your dm so don't choose this place)
+
+
+preview with shitty proxies:
+![image](https://github.com/emrovsky/instagram-account-gen/assets/85563550/ab95636a-19af-4252-b480-680e0202f6a1)
